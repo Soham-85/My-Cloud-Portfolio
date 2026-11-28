@@ -56,3 +56,15 @@ For detailed implementation steps, architecture and configuration:
 - Private S3 bucket with Origin Access Control (OAC)
 - Custom domain configuration
 - Infrastructure automation using Terraform
+
+
+## Website Screenshots
+
+### Homepage
+![Portfolio Homepage](screenshots/Screenshot-homepage.png)
+
+### About and Skills
+![Portfolio Skills](screenshots/Screenshot-skills.png)
+
+### Projects
+![Portfolio Projects](screenshots/Screenshot-projects.png)
