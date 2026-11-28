@@ -31,9 +31,9 @@ A visitor accesses the website through the S3 static website endpoint. Amazon S3
 **S3 Website Endpoint:**
 
 
+## Live Portfolio
 
-Visit My Portfolio([http://cloud-portfolio-2026-soham.s3-website.ap-south-1.amazonaws.com)](http://cloud-portfolio-2026-soham.s3-website.ap-south-1.amazonaws.com)
-
+[View My New Portfolio](http://cloud-portfolio-2026-soham.s3-website.ap-south-1.amazonaws.com)
 ## Project Documentation
 
 For detailed implementation steps, architecture and configuration:
